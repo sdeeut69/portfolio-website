@@ -3266,7 +3266,7 @@ input, select, textarea {
 			border: 0;
 			content: '';
 			display: block;
-			height: 4em;
+			height: 2em;
 			overflow: hidden;
 			position: absolute;
 			right: 0;
